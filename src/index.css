@@ -1,0 +1,26 @@
+/* google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+
+/* general css */
+* {
+  /* margin: 10px;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 0.04em; */
+  font-family: "Roboto", sans-serif;
+  /* font-size: small; */
+}
+
+/* background */
+.background {
+  background: linear-gradient(to bottom, #2fa5ed, #b5d3f9, #ebeefb);
+  /* background-attachment: fixed; */
+  /* background-size: cover; */
+  /* background-position: center; */
+  background-color: #ebeefb;
+  
+  
+}
+
